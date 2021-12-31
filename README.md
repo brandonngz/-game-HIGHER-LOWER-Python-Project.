@@ -1,5 +1,6 @@
 # HIGHER-LOWER-Python-Project.
 
+The humble copy of Higher-lower game... I tried to replicate it with little changes/differences in it.
 
 ![imagen](https://user-images.githubusercontent.com/49128144/147799640-2d7ecc7a-2929-47fe-9082-7d78e87834a9.png)
 
